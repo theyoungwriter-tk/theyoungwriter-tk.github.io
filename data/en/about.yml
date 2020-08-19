@@ -1,16 +1,23 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : About Me
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-book # themify icon pack : https://themify.me/themify-icons
+    title : Books
+    content : At a very young age, I liked books a lot. Soon, I liked books so much that I wanted to write my own book. So then I asked my mom if I could borrow her laptop and write my own book. She agreed. Then began the writing of my first book. Almost 4 years later, I got an opportunity to publish my book. I wrote a book which was supposed to be published. You can read both my books by clicking [here](/#services).
+  - icon : ti-music-alt # themify icon pack : https://themify.me/themify-icons
+    title : Singing
+    content : From around the age of 2 and-a-half, I used to sing. When I was four, I attended music classes from the student of a very famous musician. Later, I started training under friend of another very famous musician. I have posted my music videos in my YouTube Channel, [The Young Writer](https://www.youtube.com/channel/UCgd1EtE_EUEyI-n-YuVvrOg).
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-receipt # themify icon pack : https://themify.me/themify-icons
+    title : Cooking
+    content : From the age of 5, I have been cooking. My first competition for cooking was at Forum Neighborhood Mall, Whitefield. The Chef Champ was a competition
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-desktop
+    title: Programming
+    content: Lorem Ipsum
+
+  - icon: ti-search
+    title: Web Development
+    content: Lorem ipsum.
