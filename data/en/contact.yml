@@ -1,31 +1,31 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+  title : Contact Me
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : Want to contact me? Or want to have me build a website for you? Fill out this form and I'll be in touch with you.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
+      info : "Bangalore, Karnataka, India"
+
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
+      info : "Phone: +91 81976 46309"
+
+    #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
+
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: contact@theyoungwriter.tk"
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
+    form_action : "https://formspree.io/mzbjnlod" #contact form works with https://formspree.io
+    name : "Your Name (required)"
+    email : "Your Email (required)"
+    subject : "Subject (required)"
+    message : "Message (required)"
     submit : "Submit"

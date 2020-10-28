@@ -3,9 +3,11 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Have Beautiful Websites, Incredible Banners & Amazing Social Media Posting"
+  content : "Fill out the contact form and have me build a beautiful website using WordPress, HTML, or any other tool!"
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "Pricing"
+    link : "#pricing"
+    hreflabel : "Sign up now!"
+    hreflink : "/#contact"
