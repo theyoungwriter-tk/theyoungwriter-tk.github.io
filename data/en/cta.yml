@@ -3,11 +3,11 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Have Beautiful Websites, Incredible Banners & Amazing Social Media Posting"
-  content : "Fill out the contact form and have me build a beautiful website using WordPress, HTML, or any other tool!"
+  title : "Join VibudhAalaya now and get a 15% discount!"
+  content : "Call VibudhAalaya and get 15% off the admissions in VibudhAalaya Open School!"
   button:
     enable : true
-    label : "Pricing"
-    link : "#pricing"
+    label : "Click here for more details"
+    link : "https://bit.ly/3uKmsQI"
     hreflabel : "Sign up now!"
     hreflink : "/#contact"

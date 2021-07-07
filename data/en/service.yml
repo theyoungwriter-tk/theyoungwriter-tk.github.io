@@ -1,21 +1,21 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : My Tech Interests
   service_item :
     # service item loop
     - name : Website Development
       icon : ti-rss-alt
 #ti-dashboard  # themify icon pack : https://themify.me/themify-icons
-      content : Want to have a WordPress Website? Or want a Hugo Website? Or want a website built using any other tool? Well, sign up and have a built for you using WordPress, plain HTML, Hugo or any other tool! Check out the pricing plans by clicking below.
-      link : "/#pricing"
-      linktext : "Pricing"
+      content : WordPress Websites, Hugo Website, HTML Websites or any other tool? I can build websites using any of these tools! Click [here for the links of all my websites.  
+      # link : "/#pricing"
+      # linktext : "Pricing"
     # service item loop
     - name : Search Engine Optimization
       icon : ti-search # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      link : "/#contact"
-      linktext : Sign up now!
+      # link : "/#contact"
+      # linktext : Sign up now!
     # service item loop
     - name : Social Media
       icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons

@@ -1,74 +1,80 @@
-# ############################### team ############################
-# team:
-#   enable : true
-#   title : Our Team
-#   team_member :
-#     # team member loop
-#     - name : Veena C
-#       image_webp : images/team/team-4.webp
-#       image : images/team/team-4.jpg
-#       designation : Co-founder, Vice President
-#       content : Veena is a web developer and the founder of VibudhAalaya. She is the co-founder and the Vice President of The Young Writer.
-#       social :
-#         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-#           link : "https://fb.com/vibudhofficial"
-#         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-#           link : "https://twitter.com/vibudhofficial"
-#         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-#           link : "https://in.linkedin.com/in/vibudhofficial"
-#         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-#           link : "https://instagr.am/vibudhofficial"
-#         - icon : ti-world
-#           link : "https://vibudh.org"
-#
-#     # team member loop
-#     - name : Avy C
-#       image_webp : images/team/team-1.webp
-#       image : images/team/team-1.jpg
-#       designation : CEO, Founder, President
-#       content : Hey, I'm Avy, the creator of this website! I'm the founder of The Young Writer and the developer who created this website.
-#       social :
-#         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-#           link : "#"
-#         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-#           link : "#"
-#         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-#           link : "#"
-#         - icon : ti-world
-#           link : "https://theyoungwriter.tk"
-#         - icon : ti-youtube
-#           link : "https://www.youtube.com/channel/UCgd1EtE_EUEyI-n-YuVvrOg?view_as=subscriber"
-#
-#     # team member loop
-#     - name : Chandy C
-#       image_webp : images/team/team-3.webp
-#       image : images/team/team-3.jpg
-#       designation : Co-founder, Vice President
-#       content : Chandy is the co-founder and the Vice President of The Young Writer. He is a web developer and the founder of Samvikshana.
-#       social :
-#         #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-#         #  link : "#"
-#         #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-#         #  link : "#"
-#         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-#           link : "https://in.linkedin.com/in/chandra-vaidyanathan-14b22966"
-#         - icon : ti-world
-#           link : "https://anveshna.com"
-#         #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-#         #  link : "#"
-#
-#     # team member loop
-#     - name : Raja C
-#       image_webp : images/team/team-2.webp
-#       image : images/team/team-2.jpg
-#       designation : Co-founder, Manager, Digital Marketer
-#       content : Raja is the co-founder and the Vice President of The Young Writer. He has contributed a lot of code and is the founder of Dashing Developer.
-#       social :
-#         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-#           link : "#"
-#         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-#           link : "#"
-#         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-#           link : "#"
-#         - icon : ti-youtube # themify icon pack : https://themify.me/themify-icons
-#           link : "https://www.youtube.com/channel/UCY3Z1tLgWD9-laT2a7tgjNA/"
+############################### team ############################
+team:
+  enable : false
+  title : Support Team
+  description : People who helped me with my website's development and have done development for this website are listed below. I gratefully thank them for their help.
+  team_member :
+    # team member loop
+    - name : Dr. Shobana P
+      image_webp : images/amma.webp
+      image : images/amma.png
+      designation : Co-founder, Vice President
+      content : Dr. Shobana's undergraduate degree is from BITS, Pilani. She has 15 years of experience in research, teaching, and industry. Dr. Shobana’s research interests include optimization, parallel computing and high-performance computing. She is particularly interested in constrained non-linear optimization in discrete, continuous and mixed-integer spaces. Her teaching interests include student-centric active learning. She has been a great help and a huge inspiration behind my website. # I could not be happier with her.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://fb.com/vibudhofficial"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/vibudhofficial"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://in.linkedin.com/in/vibudhofficial"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://instagr.am/vibudhofficial"
+        - icon : ti-world
+          link : "https://vibudh.org"
+
+    # team member loop
+    - name : Avy C
+      image_webp : images/avy2.webp
+      image : images/avy2.png
+      designation : CEO, Founder, President
+      content : Hey, I'm Avy, the creator of this website! I'm the founder of The Young Writer and the developer who created this website and many more.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://instagr.am/theyoungwriter.official"
+        - icon : ti-world
+          link : "https://theyoungwriter.tk"
+        - icon : ti-youtube
+          link : "https://www.youtube.com/channel/UCgd1EtE_EUEyI-n-YuVvrOg?view_as=subscriber"
+
+    # team member loop
+    # - name : Dr. Chandrasekar V
+    #   image_webp :
+    #   image : images/appa.png
+    #   designation : Co-founder, Vice President
+    #   content : Dr. Chandra Vaidyanathan, obtained his PhD from the University of Missouri-Columbia. He graduated with a Bachelor’s Degree from the University of Madras in Electronics and Communications Engineering. He got his Master’s Degree in Communications and Signal Processing from the University of Notre Dame. He transitioned from Engineering to Mathematics with a Master’s Degree in Applied Mathematics from the University of Notre Dame. He straddles between the theoretical world of Mathematics and the practical world of Signal Processing and Machine Learning. His areas of interest include Probability, Functional Analysis, Random Matrix Theory and its application areas such as Compressed Sensing and Machine Learning. He spent a Summer at Mathematical Sciences Research Institute (MSRI) in Berkeley and finished a year of study at the University of Michigan, Ann Arbor. He developed the algorithm that powered the washing machines of various manufacturers in Japan and Europe as a Software Engineer in Embedded DSP division of Analog Devices Inc.
+    #   #Dr. Chandrasekar is the co-founder and the Vice President of The Young Writer. He is a web developer and the founder of Anveshna.
+    #   social :
+    #     #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+    #     #  link : "#"
+    #     #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #     #  link : "#"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://in.linkedin.com/in/chandra-vaidyanathan-14b22966"
+    #     - icon : ti-instagram
+    #       link: "https://instagr.am/anveshna.com1"
+    #     - icon : ti-facebook
+    #       link : "https://facebook.com/anveshna.com1"
+    #     - icon : ti-world
+    #       link : "https://anveshna.com"
+    #     #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #     #  link : "#"
+
+    # team member loop
+    - name : The rest of my family
+      image_webp : #images/team/team-2.webp
+      image : images/family.png
+      designation : Co-founder, Manager, Digital Marketer
+      content : Raja is the co-founder and the Vice President of The Young Writer. He has contributed a lot of code and is the founder of Dashing Developer.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-youtube # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.youtube.com/channel/UCY3Z1tLgWD9-laT2a7tgjNA/"

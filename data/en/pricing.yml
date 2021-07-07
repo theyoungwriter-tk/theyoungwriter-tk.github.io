@@ -1,86 +1,86 @@
-##################################### pricing ##############################
-pricing:
-  enable : true
-  title : Our Plans
-  pricing_table :
-    # pricing table loop
-    - name : Basic
-      price : ₹750 / $10
-      unit : hour
-      services:
-        - 1 Domain
-        - 15 Business Emails
-        - WordPress Hosting
-        #- Search Engine Optimisation (SEO)
-        #- Social Media Posting
-        - Chat Widget
-        - Website Design (any tool)
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-
-    # pricing table loop
-    - name : Standard
-      price : ₹1999 / $25
-      unit : hour
-      services:
-        - 3 Domains
-        - 45 Business Emails
-        - Search Engine Optimisation (SEO)
-        - Google Ads
-        - Graphics Design, Banner Design & Logo Design
-        - Social Media Posting
-        - Customer Support Chatbot
-        - Multiple Website Design (any tool)
-        - Existing Website Re-Design
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-
-    # pricing table loop
-    - name : Gold
-      price : ₹2500 / $35
-      unit : hour
-      services:
-        - 10 Domains
-        - 100 Email Accounts
-        - Search Engine Optimisation (SEO)
-        - Google Ads
-        - Graphics Design, Banner Design & Logo Design
-        - Digital Marketing
-        - Social Media Posting
-        - Multiple Websites Designing (any tool)
-        - Customer Support Chatbot
-        - Existing Website Re-Design
-        - App Development (only one, related to your website)
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-
-    # pricing table loop
-    - name : Platinum
-      price : ₹3500 / $50
-      unit : hour
-      services:
-        - 20 Domains
-        - Unlimited Email Accounts
-        - Search Engine Optimisation (SEO)
-        - Google Ads
-        - Graphics Design, Banner Design & Logo Design
-        - Digital Marketing
-        - Social Media Posting
-        - Multiple Websites Designing (any tool)
-        - Customer Support Chatbot
-        - App Development (multiple, related to your website)
-        - Video Conferencing Software
-        - Payment Gateway
-        - Chatting Software
-        - Existing Website Re-Design
-        - Tech Team
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+# ##################################### pricing ##############################
+# pricing:
+#   enable : true
+#   title : Our Plans
+#   pricing_table :
+#     # pricing table loop
+#     - name : Basic
+#       price : ₹750 / $10
+#       unit : hour
+#       services:
+#         - 1 Domain
+#         - 15 Business Emails
+#         - WordPress Hosting
+#         #- Search Engine Optimisation (SEO)
+#         #- Social Media Posting
+#         - Chat Widget
+#         - Website Design (any tool)
+#         - 24/7 Tech Support
+#       button:
+#         label : "Signup"
+#         link : "#"
+#
+#     # pricing table loop
+#     - name : Standard
+#       price : ₹1999 / $25
+#       unit : hour
+#       services:
+#         - 3 Domains
+#         - 45 Business Emails
+#         - Search Engine Optimisation (SEO)
+#         - Google Ads
+#         - Graphics Design, Banner Design & Logo Design
+#         - Social Media Posting
+#         - Customer Support Chatbot
+#         - Multiple Website Design (any tool)
+#         - Existing Website Re-Design
+#         - 24/7 Tech Support
+#       button:
+#         label : "Signup"
+#         link : "#"
+#
+#     # pricing table loop
+#     - name : Gold
+#       price : ₹2500 / $35
+#       unit : hour
+#       services:
+#         - 10 Domains
+#         - 100 Email Accounts
+#         - Search Engine Optimisation (SEO)
+#         - Google Ads
+#         - Graphics Design, Banner Design & Logo Design
+#         - Digital Marketing
+#         - Social Media Posting
+#         - Multiple Websites Designing (any tool)
+#         - Customer Support Chatbot
+#         - Existing Website Re-Design
+#         - App Development (only one, related to your website)
+#         - 24/7 Tech Support
+#       button:
+#         label : "Signup"
+#         link : "#"
+#
+#     # pricing table loop
+#     - name : Platinum
+#       price : ₹3500 / $50
+#       unit : hour
+#       services:
+#         - 20 Domains
+#         - Unlimited Email Accounts
+#         - Search Engine Optimisation (SEO)
+#         - Google Ads
+#         - Graphics Design, Banner Design & Logo Design
+#         - Digital Marketing
+#         - Social Media Posting
+#         - Multiple Websites Designing (any tool)
+#         - Customer Support Chatbot
+#         - App Development (multiple, related to your website)
+#         - Video Conferencing Software
+#         - Payment Gateway
+#         - Chatting Software
+#         - Existing Website Re-Design
+#         - Tech Team
+#         - 24/7 Tech Support
+#       button:
+#         label : "Signup"
+#         link : "#"

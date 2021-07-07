@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Me
   subtitle : Contact Details
-  content : Want to contact me? Or want to have me build a website for you? Fill out this form and I'll be in touch with you.
+  content : Want to contact me? Or want to enquire about other things? Fill out this form and I'll be in touch with you.
 
   # Contact details
   contact_list:
@@ -29,3 +29,4 @@ contact:
     subject : "Subject (required)"
     message : "Message (required)"
     submit : "Submit"
+    #submitlink : "https://formspree.io/mzbjnlod"

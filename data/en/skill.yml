@@ -1,7 +1,7 @@
 ################################# Skill ##################################
 skill:
-  enable : true
-  title : Our Skills
+  enable : false
+  title : My Interests
   subtitle : We’re skilled in wide range of web and Other digital market tools.
   content : We’re skilled in wide range of web and Other digital market tools.
   image : images/about/company-growth.webp

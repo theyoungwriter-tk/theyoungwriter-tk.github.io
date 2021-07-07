@@ -51,30 +51,30 @@ name = "services"
 URL = "services"
 weight = 2
 
-[[menu.main]]
-name = "portfolio"
-URL = "portfolio"
-weight = 3
+#[[menu.main]]
+#name = "portfolio"
+#URL = "testimonial"
+#weight = 3
 
-[[menu.main]]
-name = "team"
-URL = "team"
-weight = 4
+#[[menu.main]]
+#name = "team"
+#URL = "team"
+#weight = 4
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 5
+# [[menu.main]]
+# name = "pricing"
+# URL = "pricing"
+# weight = 5
 
 [[menu.main]]
 name = "blog"
 URL = "blog"
-weight = 6
+weight = 3
 
 [[menu.main]]
 name = "contact"
 URL = "contact"
-weight = 7
+weight = 4
 #### external / static link ####
 #[[menu.static]]
 #name = "themefisher"
@@ -88,7 +88,7 @@ logo = "images/logos1.png"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "UA-196805982-1" # Your ID
 # post share
 post_share = true
 
@@ -99,7 +99,7 @@ preloader = "images/logo2.png"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "0.1622023"
@@ -110,39 +110,32 @@ icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "https://github.com/theyoungwriter-tk"
 
 [[params.social]]
-icon = "ti-yahoo" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-
-#icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCgd1EtE_EUEyI-n-YuVvrOg"
 
 [[params.social]]
-icon = "ti-wordpress" # themify icon pack : https://themify.me/themify-icons
-link = "https://theyoungwriter12345.wordpress.com"
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instgram.com/theyoungwriter.official"
 
-[[params.social]]
-icon = "ti-microsoft-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-wordpress" # themify icon pack : https://themify.me/themify-icons
+# link = "https://theyoungwriter12345.wordpress.com"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+#
+# [[params.social]]
+# icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
 
 ################################ English Language ########################
@@ -155,10 +148,10 @@ home = "Home"
 copyright = "&copy; 2020 ALL RIGHTS RESERVED"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+#[Languages.fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#contentDir = "content/french"
+#weight = 2
+#home = "Accueil"
+#copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"

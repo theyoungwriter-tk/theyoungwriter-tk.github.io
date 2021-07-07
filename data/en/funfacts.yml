@@ -5,21 +5,22 @@ funfacts:
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "96"
+    - title : "Programs Written"
+      icon : "ti-desktop" # themify icon pack : https://themify.me/themify-icons
+      count : "50"
+      plus : "+"
 
     # counter item loop
     - title : "Interesting Books"
       icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
-      count : "41"
+      count : "3"
 
     # counter item loop
-    - title : "Amazing Website"
+    - title : "Amazing Websites"
       icon : "ti-rss-alt" # themify icon pack : https://themify.me/themify-icons
-      count : "36"
+      count : "3"
 
     # counter item loop
-    - title : "Good Food Ratings"
+    - title : "Yummy Recipes"
       icon : "ti-pin" # themify icon pack : https://themify.me/themify-icons
-      count : "28"
+      count : "50"

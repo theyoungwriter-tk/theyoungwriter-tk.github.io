@@ -13,15 +13,9 @@
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: About Me
 - id: services
-  translation: Service
-- id: portfolio
-  translation: Portfolio
-- id: team
-  translation: Team
-- id: pricing
-  translation: Pricing
+  translation: Interests
 - id: blog
   translation: Blog
 - id: contact
