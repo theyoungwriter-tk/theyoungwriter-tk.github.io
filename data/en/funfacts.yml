@@ -7,20 +7,20 @@ funfacts:
     # counter item loop
     - title : "Programs Written"
       icon : "ti-desktop" # themify icon pack : https://themify.me/themify-icons
-      count : "50"
+      count : "30"
       plus : "+"
 
     # counter item loop
-    - title : "Interesting Books"
-      icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
-      count : "3"
+    - title : "Math Projects"
+      icon : "ti-plus" # themify icon pack : https://themify.me/themify-icons
+      count : "30"
 
     # counter item loop
-    - title : "Amazing Websites"
+    - title : "Amazing Website"
       icon : "ti-rss-alt" # themify icon pack : https://themify.me/themify-icons
-      count : "3"
+      count : "1"
 
     # counter item loop
     - title : "Yummy Recipes"
       icon : "ti-pin" # themify icon pack : https://themify.me/themify-icons
-      count : "50"
+      count : "20"

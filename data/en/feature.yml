@@ -4,24 +4,24 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : My Favorite Hobbies / Time pass
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "Here's a list of my favorite things to do when I'm free!"
   feature_item :
       # feature item loop
     - title : Video Games
       icon : ti-game # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : I enjoy fun games like Roblox, Minecraft and Subway Surfers, but I've quit now to focus on my A Levels.
 
       # feature item loop
-    - title : Building
-      icon : ti-key # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Mathematics
+      icon : ti-minus # themify icon pack : https://themify.me/themify-icons
+      content : Mathematics is the love of my life. It is one of the things I find most fun. EVER. I've done over 30 Math Projects, well out of my syllabus, and thoroughly enjoyed it.
 
       # feature item loop
     - title : Sports
       icon : ti-basketball # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : I play football, cricket, badminton, and more. In football, I'm a decent goalie and a really very mid striker.
 
       # feature item loop
     - title : Reading Books
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Books are another thing I love. In fact, I was so obsessed I made my own book once! They're a really fun timepass, for me at least!

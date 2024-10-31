@@ -8,14 +8,14 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020 ALL RIGHTS RESERVED</copyright>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://theyoungwriter-tk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <!-- <item>
       <title>Are You Doing the Right Way</title>
       <link>https://theyoungwriter-tk.github.io/blog/simple-blog-post-8/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
       <guid>https://theyoungwriter-tk.github.io/blog/simple-blog-post-8/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
+    </item> -->
     
     <item>
       <title>How To Setup Meghna Hugo</title>
@@ -53,7 +53,7 @@
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
-    <item>
+    <!-- <item>
       <title>Simple Blog Post</title>
       <link>https://theyoungwriter-tk.github.io/blog/simple-blog-post-4/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
@@ -87,7 +87,7 @@
       
       <guid>https://theyoungwriter-tk.github.io/blog/simple-blog-post-7/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
+    </item> -->
     
   </channel>
 </rss>

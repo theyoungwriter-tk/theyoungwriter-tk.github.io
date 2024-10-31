@@ -7,31 +7,31 @@ service:
     - name : Website Development
       icon : ti-rss-alt
 #ti-dashboard  # themify icon pack : https://themify.me/themify-icons
-      content : WordPress Websites, Hugo Website, HTML Websites or any other tool? I can build websites using any of these tools! Click [here for the links of all my websites.  
+      content : I built this website because I wanted to have fun with it! I may build some other cool stuff later as well, I'll make sure to update that here.  
       # link : "/#pricing"
       # linktext : "Pricing"
     # service item loop
-    - name : Search Engine Optimization
-      icon : ti-search # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    #- name : Search Engine Optimization
+     # icon : ti-search # themify icon pack : https://themify.me/themify-icons
+     # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       # link : "/#contact"
       # linktext : Sign up now!
     # service item loop
     - name : Social Media
       icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : I upload some A Level notes for Math, Chemistry, Physics and Biology on Instagram. Go check it out! The username is thepiwhiz.
 
     # service item loop
     - name : Graphic Design
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : I use Canva to create attractive and compelling posters, logos, images and more. I've uploaded these on social media as well. It's pretty fun and cool!
 
     # service item loop
-    - name : Apps Development
-      icon : ti-android #ti-game # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    #- name : Apps Development
+    #  icon : ti-android #ti-game # themify icon pack : https://themify.me/themify-icons
+     # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name : Digital Marketing
-      icon : ti-rocket, ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # - name : Digital Marketing
+      # icon : ti-rocket, ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
