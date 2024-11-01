@@ -1,7 +1,7 @@
 ---
-title: "Avyay C"
+title: "John Doe"
 image: ""
-email: "ranjepavafaza@gmail.com"
+email: "email2@example.org"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
@@ -11,4 +11,5 @@ social:
     link : "#"
 ---
 
-Hey! This is my website! I don't have anything else to say! :D
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
+Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
